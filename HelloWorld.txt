@@ -1,1 +1,1 @@
-release1  test2 folder
+release1  test1
