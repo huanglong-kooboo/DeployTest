@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Master - 2
+=======
+Master - version
+>>>>>>> refs/heads/master
