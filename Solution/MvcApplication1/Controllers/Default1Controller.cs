@@ -11,7 +11,7 @@ namespace MvcApplication1.Controllers
         public ActionResult Index()
         {
             var a = '123';
-            return View();
+            var c='adfads'          return View();
         }
 
     }
