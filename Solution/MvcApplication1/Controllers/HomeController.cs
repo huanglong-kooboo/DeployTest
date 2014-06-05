@@ -6,12 +6,14 @@ using System.Web.Mvc;
 
 namespace MvcApplication1.Controllers
 {
-    public class Default1Controller : Controller
+    public class HomeController : Controller
     {
+        //
+        // GET: /Home/
+
         public ActionResult Index()
         {
-            var a = '123';
-            var c='adfads'          return View();
+            return View();
         }
 
     }
