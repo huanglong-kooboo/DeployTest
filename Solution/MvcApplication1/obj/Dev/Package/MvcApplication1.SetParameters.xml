@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="deploytest/Subsite" />
+  <setParameter name="AutoDeployDb-Web.config Connection String" value="Data Source=MyDevServer;Initial Catalog=livewebshoptest;User ID=sa;Password=abc123" />
+</parameters>

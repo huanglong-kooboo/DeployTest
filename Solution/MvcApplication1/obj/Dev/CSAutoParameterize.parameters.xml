@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="AutoDeployDb-Web.config Connection String" description="AutoDeployDb Connection String used in web.config by the application to access the database." defaultValue="Data Source=MyDevServer;Initial Catalog=livewebshoptest;User ID=sa;Password=abc123" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\PersonalBackup\\Projects\\DeployTest\\Solution\\mvcapplication1\\obj\\Dev\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AutoDeployDb']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\PersonalBackup\\Projects\\DeployTest\\Solution\\MvcApplication1\\obj\\Dev\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AutoDeployDb']/@connectionString" />
   </parameter>
 </parameters>
